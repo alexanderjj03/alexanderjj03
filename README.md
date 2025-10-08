@@ -19,7 +19,7 @@ I am currently searching for a full-time position, and am excited for future opp
 
 In the meantime, I am working on a couple independent projects. One is my personal website, and the other is a Chrome extension for price checking Facebook Marketplace deals and detecting potential scams (Marketplace-extension repository). If you have a project you are passionate about and are open to collaborating, please shoot me a message on LinkedIn. I am also open to contract work.
 
-[LinkedIn](https://www.linkedin.com/in/alexander-jacobson-097728265/)
+[LinkedIn](https://www.linkedin.com/in/alexander-jacobson-097728265/) \
 [Honours research (for those interested)](https://shorturl.at/LSxcQ)
 
 My pinned projects showcase some of favorite work! Feel free to check them out.
